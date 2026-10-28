@@ -1,4 +1,4 @@
-# FacilityFix --- University Facility Issue Reporting System
+# FacilityFix ( University Facility Issue Reporting System )
 
 ## 1. Project Overview
 
